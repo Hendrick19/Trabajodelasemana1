@@ -21,3 +21,7 @@ public class Alumno {
         System.out.println("Promedio: " + calcularPromedio());
     }
 }
+
+
+    
+
